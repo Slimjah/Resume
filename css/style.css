@@ -16,7 +16,6 @@
 .darkblue {
 	color: #1E2939;
 }
-
 body {
 	font-family: 'Montserrat', sans-serif;
 	display: flex;
@@ -25,116 +24,102 @@ body {
 	margin: auto;
 	box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
-
 aside {
 	background-color: #1E2939;
 	font-style: normal;
 	color: #FFFFFF;
 	padding-top: 40px;
 	width: 370px;
+		}
+.bold {
+	font-weight: 700;
+	font-style: normal;
 
+		font-size: 14px;
+		line-height: 24px;
 }
-
-.about {
-	width: 400px;
-	height: 230px;
-	left: 498px;
-	top: 142px;
-}
-
 .main {
 	padding: 105px 90px;
 	margin: 0%;
 	font-style: normal;
-	width: 525px;
-	padding-top: 100px;
-	padding-bottom: 100px;
 }
 .main h1 {
-		font-weight: 700;
-		font-size: 35px;
-		line-height: 55px;
-		margin-top: 20px;
-		margin-bottom: 25px;
-}
+			font-weight: 700;
+			font-size: 35px;
+			line-height: 55px;
+			margin-top: 20px;
+			margin-bottom: 25px;
+			width: 500px;
+}		
 .main h2 {
-		font-weight: 700;
-		font-size: 14px;
-		line-height: 24px;
+			font-weight: 700;
+			font-size: 14px;
+			line-height: 24px;
+					}
+		.main h3 {
+					font-weight: 700;
+					font-size: 22px;
+					line-height: 27px;
+					margin-bottom: 12px;
+					}
+		.main h4 {
+						font-weight: 700;
+						font-size: 16px;
+						line-height: 20px;
+						margin-bottom: 10px;
+					}
+		.main p {
+			font-weight: 400;
+			font-size: 14px;
+			line-height: 24px;
+			margin-bottom: 8px;
+			margin-right: 80px;
+			margin-left: 0px;
+			color: #A8A8A8
+		}
+				.main ol {
+					padding: 0%;
+					margin-left: 0px;
+					font-style: normal;
+					font-weight: 700;
+				}
+				.main li {
+					padding-left: 10px;
+					width: 570px;
+					font-style: normal;
+					font-size: 14px;
+					line-height: 24px;
+					margin-left: 18px;
+					color: #595959
+				}
+				.main ul {
+									padding: 0%;
+									margin-bottom: 15px;
+				}
+.normt {
+font-weight: 400;
 }
-.main h3 {
-		font-weight: 700;
-		font-size: 22px;
-		line-height: 27px;
+						
+.pos40 {
+	margin-bottom: 40px;
 }
-.main h4 {
-		font-weight: 700;
-		font-size: 16px;
-		line-height: 20px;
-		padding-bottom: 1px;
+.pos12 {
+margin-bottom: 12px;
 }
-.main p {
-		margin-top: 5px;	
-		font-weight: 400;
-		font-size: 14px;
-		line-height: 24px;
-		color: #595959;
-}
-.main ol {
-	padding: 0%;
-	margin-left: 0px;
-}
-.main li {
-		padding-left: 10px;
-		font-style: normal;
-		font-weight: 400;
-		font-size: 14px;
-		line-height: 24px;
-		margin-left: 18px;
-		color: #595959;
-}
-.main ul {
-	padding: 0%;
-}
-.main a { 
-		font-weight: 400;
-		font-size: 14px;
-		line-height: 24px;
-		color: #595959;
+.width {
+	width: 570px;
 }
 
+.main a {
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 24px;
+	color: #595959;
+}
 .main b {
 	font-weight: 700;
 	font-size: 14px;
 	line-height: 24px;
-}
-
-.proj {
-	margin-top: 40px;
-}
-.list {
-	margin-top: 10px;
-}
-.work {
-	margin-top: 50px;
-}
-.c-one {
-	margin-top: 10px;
-}
-
-.projects-item {
-		font-style: normal;
-		font-weight: 700;
-		font-size: 14px;
-		line-height: 24px;
-		color: #000000;
-}
-.projects {
-	font-style: normal;
-		font-weight: 400;
-		font-size: 14px;
-		line-height: 24px;
-		color: #595959;
 }
 .side div{
 	margin-bottom: 45px;
@@ -161,7 +146,7 @@ aside {
 	font-weight: 400px;
 	margin-left: 20px;
 	line-height: 24px;
-}
+} 
 .photo {
  	width: 370px;
  	margin-bottom: 50px;
