@@ -1,0 +1,179 @@
+
+
+aside {
+	position: absolute;
+		width: 370px;
+		height: 1319px;
+		left: 40px;
+		top: 40px;
+		background: #1E2939;
+		color: #FFFFFF
+	
+}
+
+h1 {
+	font-family: 'Montserrat';
+		font-style: normal;
+		font-weight: 700;
+		font-size: 45px;
+		line-height: 55px;
+		color: #000000;
+}
+
+h2 {
+font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 17px;
+	color: #000000;
+
+}
+h3 {
+	font-family: 'Montserrat';
+		font-style: normal;
+		font-weight: 700;
+		font-size: 22px;
+		line-height: 27px;
+		color: #000000
+}
+
+h4 {
+font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 20px;
+	color: #000000;
+}
+
+p {
+	font-family: 'Montserrat';
+		font-style: normal;
+		font-weight: 400;
+		font-size: 14px;
+		line-height: 24px;
+}
+
+ul {
+	font-family: 'Montserrat';
+		font-style: normal;
+		font-weight: 400;
+		font-size: 14px;
+		line-height: 24px;
+}
+
+li {
+	background-color: yellow;
+}
+
+.text-orange {
+	color: orange
+}
+
+.text-black {
+	color: black
+}
+
+.text-grey {
+	color: grey
+}
+
+.body {
+	background: #FFFFFF
+}
+
+.about {
+position: absolute;
+	width: 400px;
+	height: 230px;
+	left: 498px;
+	top: 145px;
+}
+.projects {
+	position: absolute;
+		width: 485px;
+		height: 107px;
+		left: 498px;
+		top: 510px;
+}
+
+
+.workp {
+	position: absolute;
+		width: 525px;
+		height: 213px;
+		left: 498px;
+		top: 650px;
+}
+.work2 {
+	position: absolute;
+		width: 525px;
+		height: 150px;
+		left: 498px;
+		top: 950px;
+}
+.work3 { 
+	position: absolute;
+		width: 525px;
+		height: 126px;
+		left: 498px;
+		top: 1500px;
+}
+
+.ed {
+	position: absolute;
+		width: 327px;
+		height: 114px;
+		left: 498px;
+		top: 1600px;
+}
+
+.contacts {
+	position: absolute;
+		width: 183px;
+		height: 83px;
+		left: 80px;
+		top: 485px;
+		color: #FFFFFF
+		
+}
+
+.ts {
+	position: absolute;
+		width: 121px;
+		height: 203px;
+		left: 80px;
+		top: 615px;
+}
+
+.ss {
+position: absolute;
+	width: 113px;
+	height: 131px;
+	left: 80px;
+	top: 862px;
+}
+.mainimg {
+	position: absolute;
+		width: 370px;
+		height: 354px;
+		left: 0px;
+		top: 80px;
+}
+.cv {
+		position: absolute;
+			width: 327px;
+			height: 114px;
+			left: 498px;
+			top: 1138px;
+}
+.white {
+	color: #FFFFFF
+}
+.grey {
+	color: #595959;
+}
+.black { 
+	color: black
+}

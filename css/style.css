@@ -1,0 +1,160 @@
+.orange {
+	color: #FB6D3A;
+}
+.black {
+	color: #000000
+}
+.grey {
+	color: #595959
+}
+.lightgray {
+	color: #A8A8A8
+}
+.white {
+	color: #FFFFFF
+}
+.darkblue {
+	color: #1E2939;
+}
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	display: flex;
+	flex-direction: row-reverse;
+	width: 1200px;
+	margin: auto;
+	box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+aside {
+	background-color: #1E2939;
+	font-style: normal;
+	color: #FFFFFF;
+	padding-top: 40px;
+	width: 370px;
+
+}
+
+.about {
+	width: 400px;
+	height: 230px;
+	left: 498px;
+	top: 142px;
+}
+
+.main {
+	padding: 105px 90px;
+	margin: 0%;
+	font-style: normal;
+	width: 525px;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+.main h1 {
+		font-weight: 700;
+		font-size: 35px;
+		line-height: 55px;
+		margin-top: 20px;
+		margin-bottom: 25px;
+}
+.main h2 {
+		font-weight: 700;
+		font-size: 14px;
+		line-height: 24px;
+}
+.main h3 {
+		font-weight: 700;
+		font-size: 22px;
+		line-height: 27px;
+}
+.main h4 {
+		font-weight: 700;
+		font-size: 16px;
+		line-height: 20px;
+		padding-bottom: 1px;
+}
+.main p {
+		font-weight: 400;
+		font-size: 14px;
+		line-height: 24px;
+		color: #595959;
+}
+.main ol {
+	padding: 0%;
+	margin-left: 0px;
+}
+.main li {
+		padding-left: 10px;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 14px;
+		line-height: 24px;
+		margin-left: 18px;
+		color: #595959;
+}
+.main ul {
+	padding: 0%;
+}
+.main a { 
+		font-weight: 400;
+		font-size: 14px;
+		line-height: 24px;
+		color: #595959;
+}
+
+.main b {
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 24px;
+}
+
+.projects-item {
+		font-style: normal;
+		font-weight: 700;
+		font-size: 14px;
+		line-height: 24px;
+		color: #000000;
+}
+.projects {
+	font-style: normal;
+		font-weight: 400;
+		font-size: 14px;
+		line-height: 24px;
+		color: #595959;
+}
+.side div{
+	margin-bottom: 45px;
+}
+.side h3{
+	font-weight: 700px;
+	font-size: 22px;
+	margin-left: 40px;
+	margin-bottom: 10px;
+}
+.side p {
+	font-weight: 700px;
+	font-size: 14px;
+	margin-left: 40px;
+}
+.side a {
+	font-weight: 400px;
+	font-size: 14px;
+	color: #FFFFFF;
+	padding-right: 40px;
+	opacity: 0.5;
+}
+.side li {
+	font-weight: 400px;
+	margin-left: 20px;
+	line-height: 24px;
+}
+.photo {
+ 	width: 370px;
+ 	margin-bottom: 50px;
+}
+
+
+
+
+
+
